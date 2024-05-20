@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Guidomia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tacoma_header"><font color="#FFFFFFFF" size="28"><b>Tacoma 2021</b></font> <font color="#FFFFFFFF" size="15">\nGet your\'s now</font></string>
+    <string name="filters">Filters</string>
+    <string name="hint_any_make">Any make</string>
+    <string name="hint_any_model">Any model</string>
+    <string name="pros">Pros :</string>
+    <string name="cons">Cons :</string>
+
+</resources>
